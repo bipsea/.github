@@ -1,4 +1,3 @@
 # Bipsea
 
-
-to update, edit `.github` repo.
+Sell digital items for crypto.
